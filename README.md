@@ -48,7 +48,7 @@ This project combines **structured customer data** and **unstructured text feedb
 
 ## ✅ Results
 
-- Achieved AUC score of **X.XX** and Accuracy of **XX%** (fill from your model).
+- Achieved AUC score of 75% and Accuracy of 67% 
 - Identified that customers with low sentiment and month-to-month contracts are **highly likely to churn**.
 - Created 3 actionable customer segments for targeting.
 
